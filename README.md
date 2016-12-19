@@ -7,7 +7,7 @@ mapping with crime data to help walkers find a safe path to their destinations.
 
   - __Product Owner__: Ker Moua
   - __Scrum Master__: David Walsh
-  - __Development Team Members__: Mike Stromberg, Analisa Heilmann
+  - __Development Team Members__: Mike Stromberg, Analisa Nazari
 
 ## Table of Contents
 
